@@ -1,4 +1,5 @@
 .idea
 .venv
-samples/token.txt
+samples/token*
 samples/전표.json
+samples/output
